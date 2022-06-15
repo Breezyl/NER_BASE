@@ -1,0 +1,13 @@
+O
+B-Drug
+I-Drug
+B-Part
+I-Part
+B-Symptom
+I-Symptom
+B-Indication
+I-Indication
+B-Time
+I-Time
+B-Dose
+I-Dose
